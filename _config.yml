@@ -1,0 +1,45 @@
+# Site settings
+title: Geeks@Home
+description: Conteúdo sobre Programação e Robótica para crianças
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:8000" # the base hostname & protocol for your site e.g. http://dominiopublico.xyz
+
+# User settings
+username: Lorem Ipsum
+user_description: Geeks@Home at Lorem Ipsum Dolor
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    icon: ion-ios-home
+    url: /
+  - title: Cursos
+    icon: ion-ios-book
+    url: /series
+  - title: Tags
+    icon: ion-pound
+    url: /tags
+  - title: Sobre o Geeks@Home
+    icon: ion-ios-people
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
