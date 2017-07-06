@@ -3,6 +3,7 @@ title: Geeks@Home
 description: Conteúdo sobre Programação e Robótica para crianças
 baseurl: "/geeksathome" # the subpath of your site, e.g. /geeksathome
 url: "https://agnoldo.github.io" # the base hostname & protocol for your site e.g. http://localhost:8000
+jsonFile: "https://agnoldo.github.io/geeksathome/search.json"
 
 # User settings
 username: Lorem Ipsum
