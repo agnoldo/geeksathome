@@ -1,18 +1,17 @@
 ---
 layout: post
-title: "Analisando seu código JS com um linter"
-date: 2015-12-04 22:43:23
+title: "Bem vindo ao Geeks@Home"
+date: 2017-06-30 21:41:39
 image: '/assets/img/linter/errors-list.png'
-description: 'Valide seu código em JS/ES6 em busca de erros, warnings, códigos esquecidos e melhore a sua qualidade. Seu amiguinho agradece um código mais limpo.'
+description: 'Este é o site Geeks@Home, para divulgação de recursos de ensino de programação para crianças'
 main-class: 'js'
 color: '#D6BA32'
 tags:
-- js
-- linter
 - tutorial
+- notícia
 categories:
-twitter_text: 'Valide seu código em JS/ES6 em busca de erros e melhore a sua qualidade.'
-introduction: 'Valide seu código em JS/ES6 em busca de erros, warnings, códigos esquecidos e melhore a sua qualidade. Seu amiguinho agradece um código mais limpo.'
+twitter_text: 'Bem vindo ao Geeks@Home'
+introduction: 'Este é o site Geeks@Home, para divulgação de recursos de ensino de programação para crianças'
 ---
 
 ## Introdução
