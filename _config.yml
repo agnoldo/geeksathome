@@ -1,8 +1,8 @@
 # Site settings
 title: Geeks@Home
 description: Conteúdo sobre Programação e Robótica para crianças
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:8000" # the base hostname & protocol for your site e.g. http://dominiopublico.xyz
+baseurl: "/geeksathome" # the subpath of your site, e.g. /blog
+url: "https://agnoldo.github.io" # the base hostname & protocol for your site e.g. http://dominiopublico.xyz
 
 # User settings
 username: Lorem Ipsum
